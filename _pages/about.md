@@ -22,4 +22,4 @@ AI Applications in AI4PHM: AI for precision health and precision medicine (AI4PH
 
 Welcome to join FuhaiLiAI lab
 ------
-Please check our publications at my [google school site](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
+Please check our publications at my [google scholar site](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
