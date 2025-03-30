@@ -21,4 +21,4 @@ My lab's research interests lie in modeling and interpreting large-scale, comple
 
 Welcome to join FuhaiLiAI lab
 ------
-Please check our publications at: https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate
+Please check our publications at my google school site
