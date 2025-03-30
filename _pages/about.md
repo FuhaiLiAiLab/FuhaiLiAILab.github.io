@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Fuhai Li is an Associate Professor in the Institute for Informatics (I2), Department of Pediatrics and Computer Science & Engineering (CSE) of Washington Univesity in St Louis (WashI). Our lab specializes in integrative and interpretable graph AI and LLN model development, and applications in precision health and medicine (AI4PHM).
+Dr. Fuhai Li is an Associate Professor in the Institute for Informatics (I2), Department of Pediatrics and Computer Science & Engineering (CSE) of Washington University in St Louis (WashU). Our lab specializes in integrative and interpretable graph AI and LLN model development, and applications in precision health and medicine (AI4PHM).
 
+Please note many tabs of our website will be updated soon.
 
 Motivation
 ======
 AI is accelerating scientific discovery. Artificial Intelligence (AI) has emerged as a transformative tool, fundamentally reshaping the paradigm of scientific research. AI empowers researchers to explore new frontiers in science and push the boundaries of knowledge further. Developing innovative solutions to address fundamental scientific problems is more effective and powerful when we leverage AI's capabilities. In the real world, many complex systems can be represented using interconnected graph-structured data, such as knowledge graphs, cell signaling graphs, and chemical structure graphs. However, understanding and reasoning on large-scale and complex graphs remains an open problem. Graph AI, based on graph neural networks (GNN) models, is one effective approach to decoding large and complex graphs for knowledge discovery. 
-AI Applications in AI4PHM: AI for precision health and precision medicine (AI4PHM) is one of the most challenging, fundamental and impactful scientific problems in AI research. Most of us will die from diseases which are, irreversible, untreatable, and incurable. For example, cancer, Alzheimer’s disease (AD), chronic inflammation-caused diseases, e.g., kidney/heart failure, liver cirrhosis, and virus caused pandemic like COVID-19. Some fundamental problems of AI4PHM are to decode complex cell signaling systems within multi-cell types, e.g., disease and immune cells, in disease microenvironments; and to predict precision medicines that can correct the dysfunctional parts of the signaling systems. If can decode cell signaling systems, we can better create effective precision medicines for disease prevention and treatment. 
+AI Applications in AI4PHM: AI for precision health and precision medicine (AI4PHM) is one of the most challenging, fundamental and impactful scientific problems in AI research. Most of us will die from diseases, which are irreversible, untreatable, and incurable. Some fundamental problems of AI4PHM are to decode complex cell signaling systems; and to predict precision medicines that can correct the dysfunctional parts of the signaling systems. If can decode cell signaling systems, we can better create effective precision medicines for disease prevention and treatment. 
 
 Research Interest
 ------
