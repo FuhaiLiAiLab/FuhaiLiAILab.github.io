@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "St Louis, USA"
 ---
 
-This course provides students with advanced methods in machine learning, deep learning, graphAI and large language models.
+This course provides students with advanced methods in machine learning, deep learning, graphAI and large language models (2019 ~ 2025 Springs).
 
 Heading 1
 ======
