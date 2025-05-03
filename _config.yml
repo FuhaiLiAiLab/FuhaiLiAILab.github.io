@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "FuhaiLiAILab / WashU"
+title                    : "FuhaiLiAILab @ WashU"
 title_separator          : "-"
 name                     : &name "Fuhai Li"
 description              : &description "personal description"
