@@ -15,7 +15,8 @@ main:
   #   url: /talks/    
   
   - title: "ePublications"
-    url: /LiLabPublication1/
+    # url: /LiLabPublication1/
+    url: /LiLabMembers/
     
   - title: "Lab Members"
     url: /LiLabMembers/
