@@ -13,8 +13,11 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
+
+  - title: "About AiLab"
+    url: /about/ 
   
-  - title: "ePublications"
+  - title: "Publications"
     # url: /LiLabPublication1/
     url: /LiLabMembers/
     
