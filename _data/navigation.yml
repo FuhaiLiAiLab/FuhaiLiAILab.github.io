@@ -21,8 +21,8 @@ main:
     url: /LiLabResearch1/
     
   - title: "Publications"
+    url: /LiLabResearch1/
     # url: /LiLabPublication1/
-    url: /LiLabPublication1/
     
   - title: "Lab Members"
     url: /LiLabMembers/
