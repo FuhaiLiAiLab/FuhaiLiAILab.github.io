@@ -17,7 +17,7 @@ main:
   - title: "About AiLab"
     url: /about/ 
   
-    - title: "Research Projects"
+  - title: "Research Projects"
     url: /LiLabResearch1/
     
   - title: "Publications"
