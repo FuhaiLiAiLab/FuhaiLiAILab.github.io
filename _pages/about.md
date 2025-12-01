@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Fuhai Li is an Associate Professor in the Institute for Informatics (I2), Department of Pediatrics, and Department of Computer Science & Engineering (CSE) of Washington University in St Louis (WashU); and the Associate Director of Center for Translational Bioinformatics (CTBI). Our lab specializes in integrative and interpretable graph AI and LLN model development, and applications in precision health and medicine (AI4PHM).
+Dr. Fuhai Li is an Associate Professor in the Institute for Informatics (I2), Department of Pediatrics, and Department of Computer Science & Engineering (CSE) of Washington University in St Louis (WashU); and the Associate Director of Center for Translational Bioinformatics (CTBI). Our lab specializes in integrative and interpretable graph AI and LLMs model development, and applications in precision health and medicine (AI4PHM).
 
 Research Interest
 ======
